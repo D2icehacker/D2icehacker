@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋 My name is Daniel Godwin
+==============================
 
-<!--
-**D2icehacker/D2icehacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer
+--------------------
 
-Here are some ideas to get you started:
+Passionate Full Stack Developer | Transforming Ideas into Innovative Solutions with Expertise in Frontend & Backend Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Nigeria
+*   🖥️  See my portfolio at [MyPortfolio](http://danielwebdev.vercel.app/)
+*   ✉️  You can contact me at [danielgodwin00j@gmail.com](mailto:danielgodwin00j@gmail.com)
+*   🧠  I'm learning A New Framework
+*   🤝  I'm open to collaborating on Interesting Projects
