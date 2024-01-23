@@ -18,3 +18,4 @@ Passionate Full Stack Developer | Transforming Ideas into Innovative Solutions w
 
 <a href="http://www.github.com/d2icehacker"><img src="https://github-readme-stats.vercel.app/api?username=d2icehacker&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="D2icehacker's GitHub stats" /></a>
 
+<img src="https://github.com/D2icehacker?achievement=pull-shark&tab=achievements">
