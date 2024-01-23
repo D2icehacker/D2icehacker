@@ -10,10 +10,7 @@ Passionate Full Stack Developer | Transforming Ideas into Innovative Solutions w
 *   🖥️  See my portfolio at [MyPortfolio](http://danielwebdev.vercel.app/)
 *   ✉️  You can contact me at [danielgodwin00j@gmail.com](mailto:danielgodwin00j@gmail.com)
 *   🧠  I'm learning A New Framework
-* 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
-
-<a href="https://www.github.com/D2icehacker" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/D2icehacker?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* 🤝  I'm open to collaborating on exciting projects as a full stack developer
 
 ### Badges
 
