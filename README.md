@@ -13,7 +13,7 @@ Passionate Full Stack Developer | Transforming Ideas into Innovative Solutions w
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer, designer or dev rel.
 
 <a href="https://www.github.com/D2icehacker" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/D2icehacker?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
