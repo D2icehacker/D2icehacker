@@ -1,4 +1,4 @@
-Hi 👋 My name is Daniel Godwin
+Hi 👋, I'm Daniel Godwin
 ==============================
 
 Full Stack Developer
