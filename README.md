@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Godwin</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [My portfolio](http://danielwebdev.vercel.app/)
 
