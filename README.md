@@ -2,12 +2,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Godwin</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
+- 🌱 I’m currently learning **React Js**
 
-*   🌍  I'm based in Nigeria
-*   🖥️  See my portfolio at [MyPortfolio](http://danielwebdev.vercel.app/)
-*   ✉️  You can contact me at [danielgodwin00j@gmail.com](mailto:danielgodwin00j@gmail.com)
-*   🧠  I'm learning A New Framework
-* 🤝  I'm open to collaborating on exciting projects as a full stack developer
+- 👨‍💻 All of my projects are available at [MyPortfolio](http://danielwebdev.vercel.app/)
+
+- 📫 How to reach me **[danielgodwin00j@gmail.com](mailto:danielgodwin00j@gmail.com)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=D2icehacker&label=Profile%20views&color=0e75b6&style=flat" alt="D2ice" /> </p>
 
