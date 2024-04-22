@@ -1,10 +1,7 @@
 Hi 👋, I'm Daniel Godwin
 ==============================
 
-Full Stack Developer
---------------------
-
-Passionate Full Stack Developer | Transforming Ideas into Innovative Solutions with Expertise in Frontend & Backend Technologies
+A passionate full stack developer
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [MyPortfolio](http://danielwebdev.vercel.app/)
