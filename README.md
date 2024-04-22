@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- 👨‍💻 All of my projects are available at [MyPortfolio](http://danielwebdev.vercel.app/)
+- 👨‍💻 All of my projects are available at [My portfolio](http://danielwebdev.vercel.app/)
 
 - 📫 How to reach me **danielgodwin00j@gmail.com**
 
