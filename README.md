@@ -11,7 +11,7 @@ Passionate Full Stack Developer | Transforming Ideas into Innovative Solutions w
 *   ✉️  You can contact me at [danielgodwin00j@gmail.com](mailto:danielgodwin00j@gmail.com)
 *   🧠  I'm learning A New Framework
 * 🤝  I'm open to collaborating on exciting projects as a full stack developer
-* 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=D2icehacker&label=Profile%20views&color=0e75b6&style=flat" alt="D2ice" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
