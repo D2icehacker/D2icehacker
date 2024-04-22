@@ -1,7 +1,7 @@
-Hi 👋, I'm Daniel Godwin
-==============================
+[![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)](https://github.com/billal2022)
+<h1 align="center">Hi 👋, I'm Daniel Godwin</h1>
+<h3 align="center">A passionate full stack developer</h3>
 
-A passionate full stack developer
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [MyPortfolio](http://danielwebdev.vercel.app/)
