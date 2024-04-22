@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [MyPortfolio](http://danielwebdev.vercel.app/)
 
-- 📫 How to reach me **[danielgodwin00j@gmail.com](mailto:danielgodwin00j@gmail.com)**
+- 📫 How to reach me **danielgodwin00j@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=D2icehacker&label=Profile%20views&color=0e75b6&style=flat" alt="D2ice" /> </p>
 
