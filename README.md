@@ -2,11 +2,25 @@
 <h1 align="center">Hi 👋, I'm Daniel Godwin</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning `MERN Stack`
 
 - 👨‍💻 All of my projects are available at **[My portfolio](http://danielwebdev.vercel.app/)**
 
 - 📫 How to reach me **danielgodwin00j@gmail.com**
+- 
+- 🔭 I’m currently working on `Something Intresting`.
+- 
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=D2icehacker&label=Profile%20views&color=0e75b6&style=flat" alt="D2ice" /> </p>
 
