@@ -7,9 +7,9 @@
 - 👨‍💻 All of my projects are available at **[My portfolio](http://danielwebdev.vercel.app/)**
 
 - 📫 How to reach me **danielgodwin00j@gmail.com**
-- 
+  
 - 🔭 I’m currently working on `Something Intresting`.
-- 
+  
 - 👯 I’m looking to collaborate for `Dev Projects`
 
 - 🤔 I’m looking for help with `Competitive Programming`
