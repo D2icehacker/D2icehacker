@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Daniel Godwin</h1>
-
- <br/>
 [![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)](https://github.com/billal2022)
 
 
