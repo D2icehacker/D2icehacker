@@ -1,6 +1,6 @@
-(https://www.audienceplanet.com/root/template/1//images/web-development.gif)](https://github.com/billal2022)
-
+[![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)](https://github.com/billal2022)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px">, I'm Daniel Godwin</h1>
+<h3 align="center">A passionate fullstack developer</h3>
 
 ## 👨🏻‍💻 About Me:
 
